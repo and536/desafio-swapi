@@ -12,10 +12,10 @@ Usando a API Star Wars disponível em https://swapi.dev/, seu aplicativo deve re
 
 A seguir é um exemplo com a resposta **correta** quando o usuário insere uma distância de 1.000.000 (um milhão) de megafones:
 
-``
+`` ``
 Millennium Falcon: 9
 Y-wing: 74
 ...
-Transporte rebelde: 11
+Rebel Transport: 11
 ...
-``
+`` ``
